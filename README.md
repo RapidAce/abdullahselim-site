@@ -1,3 +1,3 @@
 # abdullahselim.com
 
-Personal site of Abdullah Ali Selim. Static HTML, deployed on Cloudflare Pages.
+Personal site of Abdullah Ali Selim. Static HTML in `public/`, deployed with Cloudflare Workers static assets (`wrangler.jsonc`).
